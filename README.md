@@ -17,15 +17,8 @@ Here are some ideas to get you started:
 
 
 ### I am `Sarra`, an applied-mathematics engineering student based in France.
-  -   ⚡ Welcome to visit my [Personal Homepage](https://zihao-guo.github.io)
+  -   ⚡ Welcome to visit my [Personal Homepage](https://github.com/sarramars)
 
-<h3 align="center">⚡ Technologies</h3>
-  
-  <div align="center">
-  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
-  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
-  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
-</div>
 
 😄 Good User:
 
