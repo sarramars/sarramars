@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 
 ### I am `Sarra`, an applied-mathematics engineering student based in France.
-  -   ⚡ Welcome to visit my [Personal Homepage](https://github.com/sarramars)
 
 👀 I’m interested in Machine Learning/Data science
 🌱 I’m currently learning applied mathematics and machine learning
