@@ -24,11 +24,15 @@ Here are some ideas to get you started:
 
 👯 I’m currently learning applied mathematics and machine learning
 
+
+
 😄 Good User:
 
 &emsp;&emsp;
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+
+
 
 
 🧰 Commonly used tools:
