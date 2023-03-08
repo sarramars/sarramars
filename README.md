@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there 👋
 
-###I am `Sarra`, an applied-mathematics engineering student based in France.
-  
--   ⚡ Welcome to visit my [Personal Homepage](https://zihao-guo.github.io)
+### I am `Sarra`, an applied-mathematics engineering student based in France.
+  -   ⚡ Welcome to visit my [Personal Homepage](https://zihao-guo.github.io)
 
 <h3 align="center">⚡ Technologies</h3>
   
