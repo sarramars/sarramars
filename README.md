@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 ### I am `Sarra`, an applied-mathematics engineering student based in France.
   -   ⚡ Welcome to visit my [Personal Homepage](https://github.com/sarramars)
 
+👀 I’m interested in Machine Learning/Data science
+🌱 I’m currently learning applied mathematics and machine learning
+👯 I’m currently learning applied mathematics and machine learning
 
 😄 Good User:
 
@@ -26,10 +29,6 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 
-💪 Limited User:
-
-&emsp;&emsp;
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
 🧰 Commonly used tools:
 
