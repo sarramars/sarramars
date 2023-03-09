@@ -20,10 +20,7 @@ Here are some ideas to get you started:
 
 👀 I’m interested in Machine Learning/Data science
 
-🌱 I’m currently learning applied mathematics and machine learning
-
-👯 I’m currently learning applied mathematics and machine learning
-
+🌱 I’m currently learning everything
 
 
 😄 Good User:
