@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### I am `Sarra`, an applied-mathematics engineering student based in France.
+### I am `Sarra`, an applied-mathematics engineering student.
 
 👀 I’m interested in Machine Learning/Data science
 
